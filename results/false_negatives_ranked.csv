@@ -1,0 +1,4 @@
+index,true_label,pred_label,score,group,confidence
+608,1,0,0.17476122,false_negative,0.8252387800000001
+248,1,0,0.28038436,false_negative,0.71961564
+533,1,0,0.43787953,false_negative,0.56212047
